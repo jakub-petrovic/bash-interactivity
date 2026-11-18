@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # interactivity
 #
 # Utilities to work with bash while interactive
